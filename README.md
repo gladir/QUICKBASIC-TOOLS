@@ -19,13 +19,13 @@ Voici la liste des différents fichiers proposés dans QUICKBASIC-TOOLS :
 			<td>Cette commande permet de convertir un fichier CSV en code source QuickBASIC ou QBasic.</td>
 		</tr>
 		<tr>
-			<td><b>QBERR.PAS</b></td>
-			<td>Cette commande permet d'afficher un code d'erreur QuickBASIC ou QBasic.</td>
-		</tr>	
-		<tr>
 			<td><b>QB2BBC.PAS</b></td>
 			<td>Cette commande permet de convertir un code source QBasic ou QuickBasic en BBC BASIC.</td>
 		</tr>  
+		<tr>
+			<td><b>QBERR.PAS</b></td>
+			<td>Cette commande permet d'afficher un code d'erreur QuickBASIC ou QBasic.</td>
+		</tr>		
 		<tr>
 			<td><b>TSV2QB.PAS</b></td>
 			<td>Cette commande permet de convertir un fichier TSV en code source QuickBASIC ou QBasic.</td>
