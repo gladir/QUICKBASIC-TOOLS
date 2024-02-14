@@ -13,7 +13,11 @@ Voici la liste des différents fichiers proposés dans QUICKBASIC-TOOLS :
 		<tr>
 			<td><b>ASC2QB.PAS</b></td>
 			<td>Cette commande permet de transformer du texte en code source QBasic ou QuickBASIC.</td>
-		</tr>  
+		</tr>
+		<tr>
+			<td><b>QBERR.PAS</b></td>
+			<td>Cette commande permet d'afficher un code d'erreur QuickBASIC ou QBasic.</td>
+		</tr>	
 		<tr>
 			<td><b>QB2BBC.PAS</b></td>
 			<td>Cette commande permet de convertir un code source QBasic ou QuickBasic en BBC BASIC.</td>
